@@ -4,7 +4,7 @@ import java.io.Serializable;
 import java.util.Date;
 
 /**
- * Created by Leandro Pinheiro de Holanda 816113762 on 21/03/2018.
+ * Created by roger.oliveira-816117932 on 21/03/2018.
  */
 
 public class Chamado implements Serializable{

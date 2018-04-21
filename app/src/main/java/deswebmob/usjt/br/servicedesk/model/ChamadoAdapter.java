@@ -14,7 +14,7 @@ import java.util.ArrayList;
 import deswebmob.usjt.br.servicedesk.R;
 
 /**
- * Created by Leandro Pinheiro de Holanda on 21/03/2018.
+ * Created by roger.oliveira-816117932 on 21/03/2018.
  */
 
 public class ChamadoAdapter extends BaseAdapter {

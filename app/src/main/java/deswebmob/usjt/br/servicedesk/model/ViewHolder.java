@@ -4,7 +4,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 /**
- * Created by roger.oliveira-816117932 on 22/03/2018.
+ * Created by roger.oliveira- 816117932 on 22/03/2018.
  */
 
 public class ViewHolder {
